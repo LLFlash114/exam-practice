@@ -23,6 +23,11 @@ label {
     flex-direction: column;
 }   
 
+/* Javascript CSS */
+.new-BG-Color {
+    background-color: pink;
+}
+
 @media screen and (min-width: 600px) {
     .label-section {
         display: flex;
