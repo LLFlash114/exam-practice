@@ -28,5 +28,17 @@ label {
         display: flex;
         justify-content: space-around;
     }
+
+    .enrolled-students {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;  
+    }
+
 }
 
