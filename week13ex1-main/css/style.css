@@ -18,3 +18,8 @@ label {
     justify-content: center;
 }
 
+.enrolled-students {
+    display: flex;
+    flex-direction: column;
+}   
+
